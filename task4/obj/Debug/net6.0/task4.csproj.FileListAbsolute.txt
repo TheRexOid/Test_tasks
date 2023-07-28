@@ -1,0 +1,15 @@
+R:\Тестовое задание\task4\task4\bin\Debug\net6.0\task4.exe
+R:\Тестовое задание\task4\task4\bin\Debug\net6.0\task4.deps.json
+R:\Тестовое задание\task4\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+R:\Тестовое задание\task4\task4\bin\Debug\net6.0\task4.dll
+R:\Тестовое задание\task4\task4\bin\Debug\net6.0\task4.pdb
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.dll
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\refint\task4.dll
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.pdb
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+R:\Тестовое задание\task4\task4\obj\Debug\net6.0\ref\task4.dll
