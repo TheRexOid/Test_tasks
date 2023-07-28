@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OxrpNsE29A6K4BEPPuU3Z3fRWDckGlMMDpT2uWRThp0pcXAB26IRh0sVj8qbVoIGuhRX3pPEb7ZHRt3DYaYrcA==",
+  "success": true,
+  "projectFilePath": "R:\\Тестовое задание\\task3\\task3\\task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\demin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
